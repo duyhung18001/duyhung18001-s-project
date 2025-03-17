@@ -321,4 +321,4 @@ void shiftData(byte data) {
   //stop shifting
   digitalWrite(clockPin, LOW);
 }
-//duyhung18001(Henry DAO)
+//duyhung18001(Henry Dao)
