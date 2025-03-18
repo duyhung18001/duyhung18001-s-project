@@ -71,8 +71,6 @@ void setup() {
   pinMode(btn_left, INPUT_PULLUP);
   pinMode(btn_right, INPUT_PULLUP);
   
-  // clear screen
-  clrscr();
 }
 
 void loop() {
